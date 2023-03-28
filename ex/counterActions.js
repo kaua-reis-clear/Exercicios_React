@@ -2,7 +2,7 @@ export function inc() {
     return { type: 'INC' }
 }
 
-export function ec() {
+export function dec() {
     return { type: 'DEC' }
 }
 
